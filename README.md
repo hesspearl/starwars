@@ -3,13 +3,13 @@
  <strong > 
 
 
-  <h1 align="center"> World Ranks Project 
+  <h1 align="center"> starwars Project 
  
 
 </h1> </ strong>
 <strong > 
  <h2/>
- this website was my first practice to use Next.js
+ project using Next.js with SSG(static site generator)
 </h2>
 </ strong>
 <br>
@@ -34,12 +34,12 @@
 <h1>
 
 
-✍️ [credit to ](https://www.youtube.com/watch?v=v8o9iJU5hEA&t=2609s)👈
+✍️ [credit to ](https://www.youtube.com/watch?v=2Ra91ceUsp4)👈
 </h1>
 
   <p align="center" >
 
-  <img align="center" src="https://github.com/hesspearl/worldRank/blob/main/public/pictures/home.jpg"/>
+  <img align="center" src="https://github.com/hesspearl/starwars/blob/main/public/pictures/home.jpg"/>
   </p>
  
  <br>
