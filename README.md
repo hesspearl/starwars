@@ -35,6 +35,9 @@
 
 
 ✍️ [credit to ](https://www.youtube.com/watch?v=2Ra91ceUsp4)👈
+ <br>
+ 📄[DEMO](https://starwarsapiproject.vercel.app/)
+ 
 </h1>
 
   <p align="center" >
